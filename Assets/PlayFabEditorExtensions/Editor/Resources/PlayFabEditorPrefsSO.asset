@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: PlayFabEditorPrefsSO
   m_EditorClassIdentifier: 
   DevAccountEmail: updesh071@gmail.com
-  DevAccountToken: ojn74944tgpj6ezdjyr4oq9owrc3re6az1wbor5nefufhz1t18yfyha19rbongptecod5yxqtxwjfcqxpt9tygp8ds1aenxs5o8suxtqpemajkm5399kjd1qkp54d75sdr558shbfww4jnkr5utnkxdeeyyio8p9jywxrxgys88h5kieqamd7hr76w11beje51x6mupu
+  DevAccountToken: dr54wob77u5ww5nxg9awxiwh9ubux16dpmikjqo1rinkxbdycmbjekq5gs1nssz6g7cdauqci7j71hgg64gkgye7kofyq55f8mkf4o9386m1uy7ppiirzyj9zc6dazgsgc9m6xbu3wjsur4oodg8y5yb4691b18k6qhdxm366u7g6rjeqccz5e4rb6fi68qkrwwd7cmm
   AadAuthorization: 
-  SelectedStudio: Ares
+  SelectedStudio: 
   SdkPath: Assets/PlayFabSDK
   EdExPath: 
   LocalCloudScriptPath: 

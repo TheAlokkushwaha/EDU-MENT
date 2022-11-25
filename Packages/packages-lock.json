@@ -8,6 +8,15 @@
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       }
     },
+    "com.ptc.vuforia.engine": {
+      "version": "8.1.12",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.collab-proxy": {
       "version": "1.14.18",
       "depth": 0,
