@@ -6,8 +6,9 @@ using UnityEngine.UI;
 
 public class UISignIn : MonoBehaviour
 {
-   // [SerializeField] Text errorText;
-   // [SerializeField] Canvas canvas;
+    // [SerializeField] Text errorText;
+    // [SerializeField] Canvas canvas;
+    public GameObject Object;
 
 
     string username, password;

@@ -11,6 +11,7 @@ namespace Michsky.UI.Shift
 {
     public class MainPanelManager : MonoBehaviour
     {
+        
         public static MainPanelManager Instance;
         public static UnityEvent OnSignInSucess = new UnityEvent();
 
@@ -238,6 +239,7 @@ namespace Michsky.UI.Shift
             {
                 Debug.Log($"Successful Account Login: {username}");
                 OnSignInSucess.Invoke();
+               // Object.SetActive(false);
                 OpenFirstTab();
 
             },
