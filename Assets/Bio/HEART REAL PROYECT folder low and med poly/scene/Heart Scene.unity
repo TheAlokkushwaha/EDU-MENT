@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.44537002, g: 0.49502194, b: 0.57399535, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -213,51 +213,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &441437685
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 138400, guid: 9068fb5bde5a7413889185ef0793ba4b, type: 3}
-      propertyPath: m_Name
-      value: Heart Realistic LOW POLY
-      objectReference: {fileID: 0}
-    - target: {fileID: 487684, guid: 9068fb5bde5a7413889185ef0793ba4b, type: 3}
-      propertyPath: m_RootOrder
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 487684, guid: 9068fb5bde5a7413889185ef0793ba4b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 487684, guid: 9068fb5bde5a7413889185ef0793ba4b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 487684, guid: 9068fb5bde5a7413889185ef0793ba4b, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 2.00999999
-      objectReference: {fileID: 0}
-    - target: {fileID: 487684, guid: 9068fb5bde5a7413889185ef0793ba4b, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 487684, guid: 9068fb5bde5a7413889185ef0793ba4b, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 487684, guid: 9068fb5bde5a7413889185ef0793ba4b, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 487684, guid: 9068fb5bde5a7413889185ef0793ba4b, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 9068fb5bde5a7413889185ef0793ba4b, type: 3}
 --- !u!1 &1010399157
 GameObject:
   m_ObjectHideFlags: 0
