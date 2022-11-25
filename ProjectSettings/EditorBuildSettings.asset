@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main Menu (Cross Platform).unity
-    guid: 613037e5accb90f4fbc0afe1d6584450
-  - enabled: 1
-    path: Assets/Scenes/VR.unity
-    guid: 89ba0c2d50b2c1b489fffceff68ff0fc
+    path: Assets/Scenes/History/Chapter1.unity
+    guid: 09c508a7b0ef1514f8180a40cd594b37
   m_configObjects: {}
