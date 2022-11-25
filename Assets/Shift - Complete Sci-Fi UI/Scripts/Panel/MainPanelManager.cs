@@ -238,8 +238,7 @@ namespace Michsky.UI.Shift
             {
                 Debug.Log($"Successful Account Login: {username}");
                 OnSignInSucess.Invoke();
-                if (currentPanelIndex != 0)
-                    OpenPanel(panels[0].panelName);
+                OpenFirstTab();
 
             },
             error =>
